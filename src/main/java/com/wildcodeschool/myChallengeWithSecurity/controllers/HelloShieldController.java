@@ -18,7 +18,7 @@ public class HelloShieldController {
 
     @GetMapping("/secret-bases")
     public String director() {
-        return "Biarritz, Bordeaux, La Loupe, Lille, Lyon, Marseille, Nantes, Orléans, Paris, Reims, Strasbourg, Toulouse, Tours, Berlin, Bruxelles, Bucarest, Lisbonne, Londres, Madrid";
+        return "Biarritz, Bordeaux, La Loupe, Lille, Lyon, Marseille, Nantes, Orléans, Paris, Reims, Strasbourg, Toulouse, Tours, Berlin, Bruxelles, Bucarest, Lisbonne, Londres Madrid";
     }
 
 }
